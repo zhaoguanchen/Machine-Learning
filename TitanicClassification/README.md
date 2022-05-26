@@ -1,25 +1,3 @@
----
-title: Titanic - Machine Learning from Disaster
-subtitle: "This is a Kaggle competition named 'Titanic - Machine Learning from Disaster'. "
-date: 2021-06-22T01:28:00.000Z
-draft: false
-featured: false
-tags:
-  - Machine Learning
-categories:
-  - Machine Learning
-
-links:
-  - icon: github
-    icon_pack: fab
-    name: Follow
-    url: https://github.com/zhaoguanchen/grpc-cipher
-image:
-  filename: featured
-  focal_point: Smart
-  preview_only: false
----
-
 # 1. Introduction
 
 ## 1.1 Description
